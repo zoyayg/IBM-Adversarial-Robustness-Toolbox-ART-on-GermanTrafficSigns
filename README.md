@@ -9,11 +9,11 @@ Adversarial attacks pose real threats against Deep Neural Networks (DNN) special
 In this project I trained a DNN (modified DenseNet structure) on GermanTrafficSign dataset then used it to show different capabilities of IBM's Adversarial Robustness Toolbox (ART). 
 
 ### This repository includes:
-#### 2.1- Two main notebooks
+#### 2.1- Two main notebooks in "Notebooks" folder
 1- one that contains the training code and then uses ART. 
 2- one that loads a TensorFlow trained model then use it to work with ART.
 
-#### 2.2- Miscellaneous and test images
+#### 2.2- Miscellaneous and test images in "extra" folder
 
 #### 2.3- For dataset info please refer to refrences section
 
