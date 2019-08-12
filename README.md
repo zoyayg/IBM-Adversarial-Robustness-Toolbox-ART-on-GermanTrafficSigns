@@ -30,10 +30,8 @@ Download and use German Traffic Sign dataset http://benchmark.ini.rub.de/?sectio
 
 ## References
 
-[1] The Traffic sign classifier uses German Traffic Sign dataset: http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
+[1] J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. The German Traffic Sign Recognition Benchmark: A multi-class classification competition. In Proceedings of the IEEE International Joint Conference on Neural Networks, pages 1453–1460. 2011. 
 
-[2] J. Stallkamp, M. Schlipsing, J. Salmen, and C. Igel. The German Traffic Sign Recognition Benchmark: A multi-class classification competition. In Proceedings of the IEEE International Joint Conference on Neural Networks, pages 1453–1460. 2011. 
+[2] The code to define and train the model was used from the code in https://github.com/hengck23-udacity/udacity-driverless-car-nd-p2
 
-[3] The code to define and train the model was used from the code in https://github.com/hengck23-udacity/udacity-driverless-car-nd-p2
-
-[4] "Densely Connected Convolutional Networks" - Gao Huang, Zhuang Liu, Kilian Q. Weinberger, Laurens van der Maaten, Arxiv 2016
+[3] "Densely Connected Convolutional Networks" - Gao Huang, Zhuang Liu, Kilian Q. Weinberger, Laurens van der Maaten, Arxiv 2016
